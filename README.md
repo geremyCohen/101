@@ -10,9 +10,9 @@ AWS Web Console, CLI, CloudTrail, EC2, S3, and Athena will be introduced in this
 ## Learning Path
 
 ### AWS APIs
-1. APIs: How to Access AWS
-1. Login to the AWS Web Console
-1. Install the AWS CLI
+1. [APIs: How to Access AWS](API_and_Console/intro.md)
+1. [Login to the AWS Web Console](API_and_Console/login_to_console.md)
+1. [Install the AWS CLI](API_and_Console/intrall_cli.md)
 
 ### CloudTrail
 1. Enable CloudTrail to monitor API Calls
