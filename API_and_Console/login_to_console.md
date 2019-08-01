@@ -1,3 +1,3 @@
 # Login to the console
 
-[Click here](https://us-west-2.console.aws.amazon.com](https://us-west-2.console.aws.amazon.com) to Login to the console.
+To install the login to the web console, [click here](https://console.aws.amazon.com).
