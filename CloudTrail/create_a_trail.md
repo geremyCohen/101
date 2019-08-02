@@ -4,5 +4,4 @@ With AWS CloudTrail, you can monitor your AWS deployments in the cloud by gettin
 
 More information is available at the [CloudTrail docs page.](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
 
-Create a Trail
-https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-create-and-update-a-trail.html
+*Task:* let's (create a CloudTrail trail)[https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-create-and-update-a-trail.html] now!
